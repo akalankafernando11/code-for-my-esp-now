@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "random": "cpp",
+        "sstream": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp"
+    }
+}
